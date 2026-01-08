@@ -1,7 +1,7 @@
 {
-    "name": "Mini Car",
-    "version": "0.0.0",
-    "description": "KEYESTUDIO Microbit Smart Robot Car with Building Blocks",
+    "name": "JuniBot",
+    "version": "0.0.1",
+    "description": "Extensão Oficial para o carro da Junicoders",
     "dependencies": {
         "core": "*",
         "pxt-ir-remote": "github:mworkfun/pxt-ir-remote#d38780f97e1703f099aa5c06e40966968fa15235",
