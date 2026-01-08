@@ -7,10 +7,10 @@
         "pxt-ir-remote": "github:mworkfun/pxt-ir-remote#c10e5f2cfb043511430dbefb1b56a02f9e7ed175",
         "microphone": "*"
     },
-    "files": [
+   "files": [
         "README.md",
         "main.ts",
-        "_locales/pt-PT/microbit-robot-strings.json"
+        "_locales/pt-PT/motorbit-robot-strings.json" 
     ],
     "testFiles": [
         "test.ts"
