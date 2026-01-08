@@ -8,9 +8,9 @@ enum Motorlist {
 }
 
 enum Direction1 {
-    //% block="Frente"
+    //% block="Para a frente"
     Forward = 0,
-    //% block="Trás"
+    //% block="Para trás"
     Backward = 1
 }
 
