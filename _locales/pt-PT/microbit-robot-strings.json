@@ -1,3 +1,4 @@
 {
-    "{id:group}Motor": "Lista dos motores",
+    "{id:group}motor": "Lista dos motores",
+    "MiniCar.motor|block": " Bloco="motor = | %motor Direção = | $direction velocidade = $pwmvalue"
 }
