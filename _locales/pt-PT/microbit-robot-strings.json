@@ -1,5 +1,46 @@
 {
-    "{id:group}motor": "Lista dos motores",
-    "MiniCar.motor|block": "motor = | %motor Direção = | $direction velocidade = $pwmvalue"
-}
+    "MiniCar.motor|block": "motor = | %motor Direção = | $direction velocidade = $pwmvalue",
+    "MiniCar.led_show|block": "Mostrar LED",
+    "MiniCar.PWM_LED_R|block": "LED_D= |%color PWM= |$value",
+    "MiniCar.PWM_LED_L|block": "LED_E= |%color PWM= |$value",
+    "MiniCar.LED_OFF|block": "Desligar LED",
+    "MiniCar.led_rgb|block": "RGB = |%place cor = |$color",
+    "MiniCar.ultra|block": "Ultrassom (cm)",
+    "MiniCar.PH1|block": "LDR_E (Esquerda)",
+    "MiniCar.PH2|block": "LDR_D (Direita)",
+    "MiniCar.LineTracking|block": "Seguidor de Linha",
+    "MiniCar.setServo|block": "definir servo para ângulo %angle",
+    
+    "Motorlist.M1|block": "A",
+    "Motorlist.M2|block": "B",
+    
+    "Direction1.Forward|block": "Frente",
+    "Direction1.Backward|block": "Trás",
+    
+    "LED_rgb_L_R.LED_R|block": "LED_D",
+    "LED_rgb_L_R.LED_L|block": "LED_E",
+    
+    "LED_color.red1|block": "vermelho",
+    "LED_color.green1|block": "verde",
+    "LED_color.blue1|block": "azul",
+    "LED_color.cyan|block": "ciano",
+    "LED_color.oxbloodred|block": "vermelho escuro",
+    "LED_color.white|block": "branco",
+    "LED_color.yellow|block": "amarelo",
+    "LED_color.black|block": "Desligar LED",
+    
+    "pwm_led_l.L_pwm_red|block": "vermelho",
+    "pwm_led_l.L_pwm_green|block": "verde",
+    "pwm_led_l.L_pwm_blue|block": "azul",
 
+    "pwm_led_r.R_pem_red|block": "vermelho",
+    "pwm_led_r.R_pwm_green|block": "verde",
+    "pwm_led_r.R_pwm_blue|block": "azul",
+
+    "{id:group}Motor": "Motor",
+    "{id:group}RGB LED": "LED RGB",
+    "{id:group}Ultrasonic Sensor": "Sensor Ultrassônico",
+    "{id:group}Photoresistance Sensor": "Sensor de Luz (LDR)",
+    "{id:group}Line Tracking": "Seguidor de Linha",
+    "{id:group}Servo": "Servo"
+}
