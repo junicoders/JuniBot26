@@ -59,8 +59,8 @@ enum pwm_led_r {
     pwm_blue_r = 0x05,
 }
 
-//% color="#0364DB"
-namespace MiniCar {
+//% weight=100 color=#0364db icon="\uf1b9"
+namespace JuniBot {
 
     //% block="Motor = | %motor Direção = | $direction Velocidade = $pwmvalue"
     //% pwmvalue.min=0 pwmvalue.max=255 
